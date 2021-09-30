@@ -7,7 +7,7 @@
     text-align: center;
 }
 .shop {
-    border: 1px dotted;
+    border: 2px dotted;
     padding: .75;
     flex-basis: 25%;
     text-size-adjust: center;
